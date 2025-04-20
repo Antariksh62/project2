@@ -1,4 +1,4 @@
 # New project
 
 This project was created using local system
-Creted by Antariksh Kothari 
+Created by Antariksh Kothari 
